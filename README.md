@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Cloud computing and Front-end Development**
 
-- 📫 How to reach me **devapoojitaa@gmail.com**
+- 📫 How to reach me **reachouttodeva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
